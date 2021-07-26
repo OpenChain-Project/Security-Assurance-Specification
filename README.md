@@ -1,1 +1,4 @@
 # SecurityAssuranceGuide
+
+The OpenChain Specification working group’s core mission is to develop program standards that establish trust in the open source from which modern-day software solutions are built. The OpenChain project’s flagship specification, ISO 5230 International Standard, is currently focused on establishing trust around open source license compliance. In support of its mission, the working group has embarked on an exploratory initiative to develop a set of requirements that serve as a benchmark every quality open-source security assurance program would satisfy. 
+Conformance with this reference guide provides assurance that an organization has a program in place that takes the expected steps necessary to establish a high level of security assurance with respect to the open source used. 
