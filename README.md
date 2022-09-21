@@ -8,4 +8,4 @@ This specification is built from the Security Assurance Reference Guide 2.0 (Rel
 
 ## Purpose:
 
-* Establishing trust in the Open Source from which Software Solutions are built *
+* Establishing trust in the Open Source from which Software Solutions are built
