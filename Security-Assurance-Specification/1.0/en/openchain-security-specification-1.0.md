@@ -1,6 +1,6 @@
 # OpenChain Security Assurance Specification 1.0
 
-* OpenChain Project: Building Trust In The Supply Chain Since 2016 *
+### OpenChain Project: Building Trust In The Supply Chain Since 2016 *
 
 ## Introduction
 
@@ -12,9 +12,7 @@ The OpenChain Project community noticed OpenChain ISO/IEC 5230:2020 being in the
 
 The OpenChain security assurance specification focused on the “what” and “why” aspects of a quality Security Assurance Program rather than delving into to “how” and “when.” This is a conscious decision to ensure flexibility for companies of any size and in any market to use this reference specification. This approach, along with the types of processes identified, is built on more than half a decade of practical global feedback around the creation and management of such programs. The result is that a company can frame a program that precisely fits their supply chain requirements, scoped to a single product or a complete legal entity, and take this solution to market quickly and effectively.
 
-This specification is built from the Security Assurance Reference Guide 2.0 (Release Candidate 1) published on 2022-03-28. That reference document went through a final approval process via our normal voting practice to transform into this published security specification.
-
-The scope of this reference specification may expand over time based on community feedback.
+This specification is built from the Security Assurance Reference Guide 2.0 (Release Candidate 1) published on 2022-03-28. That reference document went through a final approval process via our normal voting practice to transform into this published security specification. The scope of this reference specification may expand over time based on community feedback.
 
 This introduction to this specification describes its purpose. Section 2 defines key terms used throughout this document. Section 3 defines the requirements that a Program must satisfy to achieve a core level of Security Assurance. Each requirement consists of one or more verification materials (i.e., records) that must be produced to satisfy the requirement. Verification materials are not required to be made public, though an organization may choose to provide them to others, potentially under a Non-Disclosure Agreement (NDA). 
 
