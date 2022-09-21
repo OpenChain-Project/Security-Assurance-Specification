@@ -1,6 +1,6 @@
 # OpenChain Security Assurance Specification 1.0
 
-### OpenChain Project: Building Trust In The Supply Chain Since 2016 *
+### OpenChain Project: Building Trust In The Supply Chain Since 2016
 
 ## Introduction
 
