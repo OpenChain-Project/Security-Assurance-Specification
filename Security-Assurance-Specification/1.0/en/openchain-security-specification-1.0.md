@@ -20,7 +20,7 @@ This specification is licensed under [Creative Commons Attribution License 4.0](
 
 https://www.openchainproject.org/community
 
-# OpenChain Security Assurance Reference Specification**
+# OpenChain Security Assurance Reference Specification
 
 ## 1: Scope
 
