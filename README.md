@@ -16,6 +16,4 @@ This specification is built from the Security Assurance Reference Guide 2.0 (Rel
 
 ## License
 
-This specification is licensed under Creative Commons Attribution License 4.0 (CC-BY-4.0). You can submit issues highlighting areas you would like review on our GitHub repository. Please note, due to this being a specification, we will only accept issues for discussion. We will not accept pull requests or remixes of any sort.
-
-The specification document is not designed to be modified outside of the formal editing track. You can get more involved with our work beyond submitting issues  via our community calls, mailing lists and events: https://www.openchainproject.org/community
+This specification is licensed under Creative Commons Attribution License 4.0 (CC-BY-4.0). You can submit issues highlighting areas you would like review on our GitHub repository. Due to this being a specification, we will only accept issues for discussion. We will not accept pull requests or remixes. You can get more involved with our work beyond submitting issues via our community calls, mailing lists and events: https://www.openchainproject.org/community
