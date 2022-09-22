@@ -1,8 +1,10 @@
 # OpenChain Security Assurance Specification
 
-The OpenChain Specification working group’s core mission is to develop Program standards that establish trust in the Open Source from which modern-day software solutions are built. The OpenChain project’s flagship specification, ISO 5230 International Standard for Open Source Compliance, focuses on establishing trust around Open Source license compliance. A natural next step in support of the broader mission was to develop a guide to identify and present the minimum core set of requirements every Security Assurance program should satisfy with respect to the use of Open Source software. 
+The OpenChain Security Assurance Specification 1.0 is now available. This is the result of over one year of work throughout the global OpenChain community.
 
-Initially the scope is limited to ensuring that an organization vets the Open Source with regard to known publicly available security vulnerability issues (e.g., CVEs, github dependency alerts, package manager alerts and so forth). The security assurance specification's scope may expand overtime based on community feedback.
+<The OpenChain Project's core mission is to build trust in the supply chain. Our flagship specification, ISO/IEC 5230:2020, is International Standard for Open Source Compliance and builds trust in that domain. It defines the key requirements of a quality open source compliance program. The natural next step is to identify the key requirements of a quality open source security assurance program.
+
+Initially the scope of this specification is limited to ensuring that an organization vets open source with regards to known publicly available security vulnerability issues (e.g., CVEs, GitHub dependency alerts, package manager alerts and so on). The security assurance specification's scope may expand over time based on community feedback.
 
 This specification is built from the Security Assurance Reference Guide 2.0 (Release Candidate 1) published on 2022-03-28. That reference document went through a final approval process via our normal voting practice to transform into this published security specification. You will find this document and its predecessors under 'Security-Assurance-Guide-Depreciated' in our GitHub repository.
 
