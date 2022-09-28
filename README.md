@@ -4,6 +4,8 @@
 
 The OpenChain Security Assurance Specification 1.0 is now available. This is the result of over one year of work throughout the global OpenChain community.
 
+(We are preparing this for submission to ISO/IEC JTC-1 via the PAS process through the Joint Development Foundation, and you can see our work with editorial reviews as OpenChain Security Assurance Specification 1.1 (Draft)).
+
 The OpenChain Project's core mission is to build trust in the supply chain. Our flagship specification, ISO/IEC 5230:2020, is International Standard for Open Source Compliance and builds trust in that domain. It defines the key requirements of a quality open source compliance program. The natural next step is to identify the key requirements of a quality open source security assurance program.
 
 Initially the scope of this specification is limited to ensuring that an organization vets open source with regards to known publicly available security vulnerability issues (e.g., CVEs, GitHub dependency alerts, package manager alerts and so on). The security assurance specification's scope may expand over time based on community feedback.
