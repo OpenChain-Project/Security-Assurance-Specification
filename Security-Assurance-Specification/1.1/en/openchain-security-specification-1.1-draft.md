@@ -1,4 +1,4 @@
-# OpenChain Security Assurance Specification 1.1 (Draft)
+# OpenChain Security Assurance Specification 1.1
 
 ### OpenChain Project: Building Trust In The Supply Chain Since 2016
 
@@ -159,13 +159,13 @@ To provide the flexibility to construct a Program that best fits the scope of an
 
 ### 3.1.5 - Standard Practice Implementation
 
-The Organization demonstrates a sound and robust handling procedures of Known Vulnerabilities and Secure Software Development by defining and implementing following procedures:
+The Program demonstrates a sound and robust handling procedures of Known Vulnerabilities and Secure Software Development by defining and implementing following procedures:
 
 - Method to identify structural and technical threats to the Supplied Software is defined;
 - Method for detecting existence of Known Vulnerabilities in Supplied Software;
 - Method for following up on identified Known Vulnerabilities;
 - Method to communicate identified Known Vulnerabilities to customer base when warranted;
-- Method for analyzing Supplied Software for newly published Known Vulnerabilities post release;
+- Method for analyzing Supplied Software for newly published Known Vulnerabilities post release of the Supplied Software;
 - Method for continuous and repeated Security Testing is applied for all Supplied Software before release;
 - Method to verify that identified risks will have been addressed before release of Supplied Software;
 - Method to export information about identified risks to third parties as appropriate.
@@ -186,10 +186,10 @@ To ensure appropriate processes exists for detecting and following up on Known V
 
 Maintain a process to effectively respond to Known Vulnerability external inquiries. Publicly identify a means by which a third party can inquire about a Known Vulnerability with respect to a given software offering.
 
-#### Verification material(s):
+#### Verification Material(s):
 
 - 3.2.1.1: Publicly visible method to allow third parties to make Known Vulnerability or Newly Discovered Vulnerability enquires (e.g., via an email address or web portal that is monitored by Program Participants);
-- 3.2.1.2: An internal documented procedure exists for responding to third party Known Vulnerability inquiries. 
+- 3.2.1.2: An internal documented procedure exists for responding to third party Known Vulnerability or Newly Discovered Vulnerability inquiries.
 
 #### Rationale:
 
@@ -201,7 +201,7 @@ Identify and Resource Program Task(s):
 
 - Assign accountability to ensure the successful execution of Program tasks;
 - Program tasks are sufficiently resourced;
-- Sufficient time to perform the tasks have been allocated; and
+- Sufficient time to perform the tasks have been allocated;
 - Adequate funding has been allocated;
 - A process exists for reviewing and updating the policy and supporting tasks;
 - Technical expertise pertaining to Known Vulnerabilities is accessible to those who may need such guidance.
@@ -219,13 +219,13 @@ To ensure: i) Program responsibilities are effectively supported and resourced a
 
 ## 3.3 - Open Source Software Content Review And Approval
 
-### 3.3.1 - Software Bill of Material (SBOM)
+### 3.3.1 - Software Bill of Materials (SBOM)
 
 A process shall exist for creating and maintaining a bill of materials that includes each Open Source Software component from which the Supplied Software is comprised. 
 
 #### Verification Material(s):
 
-- 3.3.1.1: A documented procedure ensuring for all Open Source Software used in the Supplied Software is continuously recorded across the lifecycle of the Supplied Software. This may include an archive of all Open Source Software used in the Supplied Software;
+- 3.3.1.1: A documented procedure ensuring all Open Source Software used in the Supplied Software is continuously recorded across the lifecycle of the Supplied Software. This includes an archive of all Open Source Software used in the Supplied Software;
 - 3.3.1.2: Open Source Software Component Records for the Supplied Software that demonstrates the documented procedure was properly followed.
 
 #### Rationale:
@@ -238,9 +238,9 @@ To ensure a process exists for creating and managing a Software Bill of Material
 - Apply method for detecting existence of Known Vulnerabilities;
 - For each identified Known Vulnerability assign a risk/impact score;
 - For each detection and assigned score determine and document necessary remediation steps suitable for the use-case of the software and get Customer Agreement at or above a previously determined level (i.e., all severity scores above 4.5 …);
-- Depending on the risk/impact score take the appropriate action (e.g., contact customers if necessary, upgrade Software Component, no further action, …);
+- Depending on the risk/impact score take the appropriate action (e.g., contact customers if necessary, upgrade software component, no further action, …);
 - If a Newly Discovered Vulnerability is present in previously distributed Supplied Software, depending on the risk/impact score take the appropriate action (e.g., contact customers if warranted);
-- An ability to monitor Software Components after their release to market and to respond to Known Vulnerability or Newly Discovered Vulnerability disclosures.
+- An ability to monitor Supplied Software after their release to market and to respond to Known Vulnerability or Newly Discovered Vulnerability disclosures.
 
 #### Verification Material(s):
 
@@ -249,7 +249,7 @@ To ensure a process exists for creating and managing a Software Bill of Material
 
 #### Rationale:
 
-To ensure the Program is sufficiently robust to handle the identified Known Vulnerabilities for the Open Source Software from which the Supplied Software is comprised.  That a procedure exists to support this activity and that the procedure is followed. 
+To ensure the Program is sufficiently robust to handle the identified Known Vulnerabilities for the Open Source Software from which the Supplied Software is comprised. That a procedure exists to support this activity and that the procedure is followed. 
 
 ## 3.4 - Adherence To The Guideline Requirements
 
