@@ -4,7 +4,7 @@
 
 The OpenChain Security Assurance Specification 1.1 is now available. This is the result of over one year of work throughout the global OpenChain community.
 
-The OpenChain Security Assurance Specification 1.1 is now being prepared by the Joint Development Foundation for submission to ISO/IEC JTC-1 via the PAS Transposition Process. We expect the specification to graduate as an ISO/IEC International Standard in mid-2023. Meanwhile, it is ready for market adoption as a de facto industry standard.
+The OpenChain Security Assurance Specification 1.1 is being prepared by the Joint Development Foundation for submission to ISO/IEC JTC-1 via the PAS Transposition Process. We expect the specification to graduate as an ISO/IEC International Standard in mid-2023. Meanwhile, it is ready for market adoption as a de facto industry standard.
 
 The OpenChain Project's core mission is to build trust in the supply chain. Our flagship specification, ISO/IEC 5230:2020, is International Standard for Open Source Compliance and builds trust in that domain. It defines the key requirements of a quality open source compliance program. The natural next step is to identify the key requirements of a quality open source security assurance program.
 
