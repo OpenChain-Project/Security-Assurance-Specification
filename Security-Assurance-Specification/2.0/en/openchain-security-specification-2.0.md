@@ -1,4 +1,8 @@
-# OpenChain Security Assurance Specification 2.0 DRAFT
+# OpenChain Security Assurance Specification DRAFT
+
+Version 2.0
+
+This Specification is designed to provide an interation to the OpenChain Security Assurance Specification (1st Generation). It is currently a draft and is not ready for deployment.
 
 ### OpenChain Project: Building Trust In The Supply Chain Since 2016
 
