@@ -60,7 +60,7 @@ Security vulnerabilities just discovered in Open Source Software components that
 
 ### 2.7 - Open Source Software
 
-Software subject to one or more licenses that meet the Open Source Software Definition published by the Open Source Software Initiative (see www.opensource.org/osd) or the Free Software Definition published by the Free Software Foundation (see www.gnu.org/philosophy/free-sw.html).
+Software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (see opensource.org/osd) or the Free Software Definition published by the Free Software Foundation (see gnu.org/philosophy/free-sw.html) or similar license.
 
 ### 2.8 - Program
 
