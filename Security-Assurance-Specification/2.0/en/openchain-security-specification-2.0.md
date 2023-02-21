@@ -179,7 +179,7 @@ The Program demonstrates a sound and robust handling procedures of Known Vulnera
 - Method to communicate identified Known Vulnerabilities to customer base when warranted;
 - Method for analyzing Supplied Software for newly published Known Vulnerabilities post release of the Supplied Software;
 - Method for continuous and repeated Security Testing is applied for all Supplied Software before release;
-- Method to verify that identified risks will have been addressed before release of Supplied Software;
+- Method to verify that identified risks will have been remediated or mitigated before release of Supplied Software;
 - Method to export information about identified risks to third parties as appropriate.
 
 A process shall exist for the Security Assurance methods listed above.
