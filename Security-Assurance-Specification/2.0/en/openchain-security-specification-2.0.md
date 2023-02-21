@@ -58,35 +58,43 @@ Security vulnerabilities previously discovered in Open Source Software component
 
 Security vulnerabilities just discovered in Open Source Software components that are publicly available. That would include any publicly published vulnerabilities including but not limited to CVEs, GitHub/GitLab vulnerability alerts, package manager alerts and so forth.
 
-### 2.7 - Open Source Software
+### 2.7 Remediate
+
+Remediation is when a vulnerability is eliminated or removed. It involves identifying where in the code the vulnerability stems from and it has been patched or the code has been rewritten to avoid the identified issue. In this situation, the vulnerability is removed.
+
+### 2.8 Mitigate
+
+Mitigation is when the impact of the vulnerability is decreased without eliminating a vulnerability. For example, it can involve working around or avoiding the functionality that contains the vulnerability. Another example is that it can also involve isolating or preventing access to the vulnerability to prevent exploitation. In this situation, the vulnerability continues to exist, but is contained.
+
+### 2.9 - Open Source Software
 
 Software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (see opensource.org/osd) or the Free Software Definition published by the Free Software Foundation (see gnu.org/philosophy/free-sw.html) or similar license.
 
-### 2.8 - Program
+### 2.10 - Program
 
 The set of policies, processes and personnel that comprise an organization’s security assurance activities.
 
-### 2.9 - Program Participants
+### 2.11 - Program Participants
 
 Any organization employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software. Note: Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing, product management and procurement.
 
-### 2.10 - Security Assurance
+### 2.12 - Security Assurance
 
 The confidence that a system meets the requirements for security best practices and is resilient against Known Vulnerabilities.
 
-### 2.11 - Security Testing
+### 2.13 - Security Testing
 
 A process for the analysis of software (or other components) that allows for understanding their current and potential future management in the context of Known Vulnerabilities.
 
-### 2.12 - Software Bill of Materials (SBOM)
+### 2.14 - Software Bill of Materials (SBOM)
 
 Information in a structured format such as SPDX ISO/IEC 5962:2021 that allows the exchange of information for a software package, which could usefully include name, version, origin, license, copyright and Known Vulnerabilities in a manner useful to third parties.
 
-### 2.13 - Supplied Software
+### 2.15 - Supplied Software
 
 Software that an organization distributes or makes available to third parties (e.g., other organizations or individuals).
 
-### 2.14 - Verification Materials
+### 2.16 - Verification Materials
 
 Materials that demonstrate that a given requirement of the specification is satisfied.
 
