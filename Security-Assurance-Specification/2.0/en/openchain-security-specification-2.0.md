@@ -251,7 +251,7 @@ To ensure a process exists for creating and managing a Software Bill of Material
 - For each identified Known Vulnerability assign a risk/impact score;
 - For each detection and assigned score determine and document necessary remediation or mitigation steps suitable for the use-case of the software 
 - Depending on the risk/impact score take the appropriate action (e.g., contact customers if necessary, upgrade software component, no further action, …);
-- Obtain Customer Agreement that the proposed resolution is acceptable if necessary;
+- Obtain Customer Agreement that the proposed resolution is acceptable if necessary; at or above a previously determined level (i.e., all severity scores above 4.5 …);
 - If a Newly Discovered Vulnerability is present in previously distributed Supplied Software, depending on the risk/impact score take the appropriate action (e.g., contact customers if warranted);
 - An ability to monitor Supplied Software after their release to market and to respond to Known Vulnerability or Newly Discovered Vulnerability disclosures.
 
