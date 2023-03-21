@@ -196,7 +196,7 @@ To ensure appropriate processes exists for detecting and following up on Known V
 
 ### 3.2.1 - Access
 
-Maintain a process to effectively respond to Known Vulnerability external inquiries. Publicly identify a means by which a third party can inquire about a Known Vulnerability with respect to a given software offering.
+Maintain a process to effectively receive and if appropriate respond to Known Vulnerability external inquiries. Publicly identify a means by which a third party can inquire about a Known Vulnerability with respect to a given software offering.
 
 #### Verification Material(s):
 
