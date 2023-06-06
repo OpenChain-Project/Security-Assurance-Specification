@@ -157,7 +157,15 @@ To ensure the Program Participants have obtained a sufficient level of awareness
 
 ### 3.1.4 - Program Scope
 
-A Program should have defined guiding principles and scope that match the risk management policy of the entire organization. It should be clear whether the Program applies to a product line, a department, or the entire organization. It should also be understood that this scope may change over time and metrics may be used to assess its ongoing effectiveness.
+A Program should have defined guiding principles and scope that match the risk management policy of the entire organization. It should be clear whether the Program applies to a: product line, a department, or the entire organization. It should also be understood that this scope may change over time and metrics should be established to assess the Programs ongoing effectiveness. To create an effective Program you should understand how you will accomplish the following objectives:
+
+- understand structural and technical threats to the Supplied Software;
+- track Known Vulnerabilities when discovered;
+- verify that identified risks have been addressed before release of Supplied Software;
+- report Known Vulnerabilities to the customer upon release of the software when warranted;
+- conduct continuous Security Testing for all Supplied Software both prior to and following release;
+- report newly discovered Vulnerabilities following release of the Supplied Software;
+- report identified risks to third parties as appropriate.
 
 #### Verification Material(s):
 
