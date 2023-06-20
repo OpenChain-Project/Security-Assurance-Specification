@@ -120,9 +120,9 @@ The confidence that a system meets the requirements for security best practices 
 
 A process for the analysis of software (or other components) that allows for understanding their current and potential future management in the context of Known Vulnerabilities.
 
-### 2.14 - Software Bill of Materials (SBOM)
+### 2.14 - software bill of materials (SBOM)
 
-Information in a structured format such as SPDX ISO/IEC 5962:2021 that allows the exchange of information for a software package, which could usefully include name, version, origin, license, copyright and Known Vulnerabilities in a manner useful to third parties.
+a “Software Bill of Materials” (SBOM) is a complete inventory for software, a list of ingredients that make up software components. An example is the specification created by the Linux Foundation's SPDX (Software Package Data Exchange) Working Group for exchanging bill of materials for a given software package, including associated license and copyright information (see spdx.org).
 
 ### 2.15 - Supplied Software
 
