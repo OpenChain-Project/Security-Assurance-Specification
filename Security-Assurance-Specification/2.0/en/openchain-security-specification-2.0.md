@@ -28,6 +28,10 @@ https://www.openchainproject.org/community
 
 ## 1: Scope
 
+This document specifies the key requirements of a quality open source security assurance program in order to provide a benchmark that builds trust between organizations exchanging software solutions containing open source software.
+
+## 2: Terms, Definitions and Examples
+
 For the purposes of this document, the following terms and definitions apply. These terms and definitions only apply to this specific version of the specification.
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as:
