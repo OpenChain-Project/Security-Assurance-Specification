@@ -273,7 +273,7 @@ To ensure: i) Program responsibilities are effectively supported and resourced a
 
 ### 3.3.1 - Software Bill of Materials (SBOM)
 
-A process shall exist for creating and maintaining a bill of materials that includes each Open Source Software component from which the Supplied Software is comprised. 
+A process shall exist for creating and maintaining a bill of materials that includes each Open Source Software component incorporated in the Supplied Software.
 
 #### Verification Material(s):
 
@@ -302,7 +302,7 @@ To ensure a process exists for creating and managing a Software Bill of Material
 
 #### Rationale:
 
-To ensure the Program is sufficiently robust to handle the identified Known Vulnerabilities for the Open Source Software from which the Supplied Software is comprised. That a procedure exists to support this activity and that the procedure is followed. 
+To ensure the Program is sufficiently robust to handle the identified Known Vulnerabilities for the Open Source Software included in the Supplied Software. That a procedure exists to support this activity and that the procedure is followed.
 
 ## 3.4 - Adherence To The Guideline Requirements
 
