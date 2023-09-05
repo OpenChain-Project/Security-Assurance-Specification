@@ -6,7 +6,7 @@ This repository holds the official OpenChain Security Assurance Specification re
 
 ## Scope 
 
-This document specifies the key requirements of a quality Open Source Software Security Assurance Program that establishes trust between organizations exchanging software solutions comprised of Open Source Software.
+This document specifies the key requirements of a quality open source security assurance program in order to provide a benchmark that builds trust between organizations exchanging software solutions containing open source software.
 
 ## License
 
