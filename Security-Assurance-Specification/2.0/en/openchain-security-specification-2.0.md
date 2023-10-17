@@ -324,11 +324,11 @@ To ensure that if an organization declares that it has a Program that is conform
 
 ### 3.4.2 - Duration
 
-A Program that is conformant with this version of the specification will have a review period as follows: 18 months from the first certification, 24 months from the second certification and 36 months from the third certification. It will require review every 36 months after this.
+A program that is OpenChain conformant with this version of the specification shall last 18 months from the date conformance validation was obtained.
 
 #### Verification Material(s):
 
-- 3.4.2.1: A document affirming the Program meets all the requirements of this specification, within the past 18 months of obtaining conformance validation.
+- 3.4.2.1: A document affirming the program meets all the requirements of this specification, within the past 18 months of obtaining conformance validation.
 
 #### Rationale:
 
