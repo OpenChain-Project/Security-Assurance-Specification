@@ -28,10 +28,6 @@ https://www.openchainproject.org/community
 
 ## 1: Scope
 
-This document specifies the key requirements of a quality open source security assurance program in order to provide a benchmark that builds trust between organizations exchanging software solutions containing open source software.
-
-## 2: Terms, Definitions and Examples
-
 For the purposes of this document, the following terms and definitions apply. These terms and definitions only apply to this specific version of the specification.
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as:
@@ -277,7 +273,7 @@ To ensure: i) Program responsibilities are effectively supported and resourced a
 
 ### 3.3.1 - Software Bill of Materials (SBOM)
 
-A process shall exist for creating and maintaining a bill of materials that includes each Open Source Software component incorporated in the Supplied Software.
+A process shall exist for creating and maintaining a bill of materials that includes each Open Source Software component from which the Supplied Software is comprised. 
 
 #### Verification Material(s):
 
@@ -306,7 +302,7 @@ To ensure a process exists for creating and managing a Software Bill of Material
 
 #### Rationale:
 
-To ensure the Program is sufficiently robust to handle the identified Known Vulnerabilities for the Open Source Software included in the Supplied Software. That a procedure exists to support this activity and that the procedure is followed.
+To ensure the Program is sufficiently robust to handle the identified Known Vulnerabilities for the Open Source Software from which the Supplied Software is comprised. That a procedure exists to support this activity and that the procedure is followed. 
 
 ## 3.4 - Adherence To The Guideline Requirements
 
@@ -322,13 +318,14 @@ For a Program to be deemed conformant with this specification, the organization 
 
 To ensure that if an organization declares that it has a Program that is conforming, that the Program has met all the requirements of this document. The mere meeting of a subset of these requirements is not considered sufficient. 
 
+
 ### 3.4.2 - Duration
 
-A program that is OpenChain conformant with this version of the specification shall last 18 months from the date conformance validation was obtained.
+A Program that is conformant with this version of the specification will have a review period every 12 months.
 
 #### Verification Material(s):
 
-- 3.4.2.1: A document affirming the program meets all the requirements of this specification, within the past 18 months of obtaining conformance validation.
+- 3.4.2.1: A document affirming the Program meets all the requirements of this specification, within the past 12 months of obtaining conformance validation.
 
 #### Rationale:
 
