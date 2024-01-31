@@ -1,6 +1,7 @@
 # DIS 18974, OpenChain security assurance specification
 
-### Note 0: this is the Simplified Chinese language draft. It is pending an update to formatting to match the English original located here: [https://github.com/OpenChain-Project/Security-Assurance-Specification/blob/main/Security-Assurance-Specification/DIS-18974/en/DIS-18974.md](https://github.com/OpenChain-Project/Security-Assurance-Specification/blob/main/Security-Assurance-Specification/DIS-18974/en/DIS-18974.md)
+### Note 0: this is the Simplified Chinese language draft. It is pending an update to formatting to match the English original located here: [https://github.com/OpenChain-Project/Security-Assurance-Specification/tree/main/Security-Assurance-Specification/DIS-18974/en]
+THE TRANSLATIONS FOR THE FIRST VERSION OF DIS-18974 DO NOT INCLUDE THE EDITORIAL ADJUSTMENTS FOUND IN "DIS-18974 POST JTC-1 PAS PROCESS EDITS.md", THE FINAL VERSION OF THE PAS SUBMISSION.
 
 ### Note 1: this document is designed to closely follow the formatting being used by JTC-1 for the JTC-1 PAS Transposition Process around the OpenChain Security Assurance Specification 1.1. 
 
