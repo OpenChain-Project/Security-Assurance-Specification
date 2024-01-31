@@ -1,5 +1,8 @@
 # DIS 18974, OpenChain 安全保證規範
 
+### Note 0: this is the Traditional Chinese language draft. It is intended to provide a reference to the English original located here: [https://github.com/OpenChain-Project/Security-Assurance-Specification/tree/main/Security-Assurance-Specification/DIS-18974/en]
+THE TRANSLATIONS FOR THE FIRST VERSION OF DIS-18974 DO NOT INCLUDE THE EDITORIAL ADJUSTMENTS FOUND IN "DIS-18974 POST JTC-1 PAS PROCESS EDITS.md", THE FINAL VERSION OF THE PAS SUBMISSION.
+
 ### 註釋 1: 此文件的設計緊密遵循 JTC-1 對OpenChain安全保證規範 1.1 的 JTC-1 PAS Transposition 流程使用的格式。
 
 ### 註釋 2: JTC-1 PAS Transposition 流程結果將是一個新的ISO/IEC標準。
