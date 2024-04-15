@@ -286,14 +286,13 @@ To ensure a process exists for creating and managing a Software Bill of Material
 
 ### 3.3.2 - Security Assurance
 
-- For each Open Source Software component in the bill of materials for the Supplied Software release under review;
-- Apply method for detecting existence of Known Vulnerabilities;
-- For each identified Known Vulnerability assign a risk/impact score;
-- For each detection and assigned score determine and document necessary remediation or mitigation steps suitable for the use-case of the software 
-- Depending on the risk/impact score take the appropriate action (e.g., contact customers if necessary, upgrade software component, no further action, …);
-- Obtain Customer Agreement that the proposed resolution is acceptable if necessary; at or above a previously determined level (i.e., all severity scores above 4.5 …);
-- If a Newly Discovered Vulnerability is present in previously distributed Supplied Software, depending on the risk/impact score take the appropriate action (e.g., contact customers if warranted);
-- An ability to monitor Supplied Software after their release to market and to respond to Known Vulnerability or Newly Discovered Vulnerability disclosures.
+A process shall exist to detect, identify, and document the existence of Known Vulnerabilities in each Open Source Software component on the Software Bill of Materials (SBOM) for the Supplied Software.
+
+For each identified Known Vulnerability assign a risk/impact score using a valid process such as NIST SP 800-30;
+For each detection and assigned score determine and document necessary remediation or mitigation steps suitable for the use-case of the software;
+Depending on risk/impact score take the appropriate action (i.e. contact customer, upgrade software, no further action) ;
+If required, obtain Customer Agreement that the proposed resolution is acceptable if necessary; at or above a previously determined level (e.g. severity scores above 4.5....);
+If a Newly Discovered Vulnerability is present in previously distributed Software, depending on the risk/impact score take the appropriate action (e.g., contact customer if applicable).
 
 #### Verification Material(s):
 
