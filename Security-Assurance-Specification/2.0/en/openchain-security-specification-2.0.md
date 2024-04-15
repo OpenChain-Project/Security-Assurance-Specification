@@ -211,16 +211,16 @@ To provide the flexibility to construct a Program that best fits the scope of an
 
 ### 3.1.5 - Standard Practice Implementation
 
-The Program demonstrates a sound and robust handling procedures of Known Vulnerabilities and Secure Software Development by defining and implementing following procedures:
+The Organization demonstrates sound procedures for handling Known Vulnerabilities and for ensuring Secure Software Development by defining and implementing robust methods for:
 
-- Method to identify structural and technical threats to the Supplied Software is defined;
-- Method for detecting existence of Known Vulnerabilities in Supplied Software;
-- Method for following up on identified Known Vulnerabilities;
-- Method to communicate identified Known Vulnerabilities to customer base when warranted;
-- Method for analyzing Supplied Software for newly published Known Vulnerabilities post release of the Supplied Software;
-- Method for continuous and repeated Security Testing is applied for all Supplied Software before release;
-- Method to verify that identified risks will have been remediated or mitigated before release of Supplied Software;
-- Method to export information about identified risks to third parties as appropriate.
+- Identifying structural and technical threats to the Supplied Software;
+- Detecting the existence of Known Vulnerabilities in the Supplied Software;
+Monitoring the identified Known Vulnerabilities;
+- Communicating the identified Known Vulnerabilities to customer base when warranted;
+- Analyzing the Supplied Software for newly published Known Vulnerabilities post-release;
+- Conducting continuous and repeated Security Testing for all Supplied Software before release;
+- Verifying that the identified risks have been addressed before release of Supplied Software;
+- Certifying that exported information about the identified risks to the third parties is appropriate.
 
 A process shall exist for the Security Assurance methods listed above.
 
