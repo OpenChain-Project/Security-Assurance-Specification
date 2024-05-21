@@ -110,23 +110,26 @@ The set of policies, processes and personnel that comprise an organization’s s
 
 Any organization employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software. Note: Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing, product management and procurement.
 
-### 2.12 - Security Assurance
+2.12 - Secure Software Development
+A process for the development of software using secure programming techniques and using best practices for code quality.
+
+### 2.13 - Security Assurance
 
 The confidence that a system meets the requirements for security best practices and is resilient against Known Vulnerabilities.
 
-### 2.13 - Security Testing
+### 2.14 - Security Testing
 
-A process for the analysis of software (or other components) that allows for understanding their current and potential future management in the context of Known Vulnerabilities.
+A process for the analysis and monitoring of software (or other components) that allows for understanding their current and potential future management in the context of Known and Unknown Vulnerabilities. This should include using techniques such as static application security testing (SAST) / dynamic application security testing (DAST), pentesting, malware testing and/or SCA scanning. For instance, this may include using NIST SP 800-218 Secure Software Development Framework (SSDF) for best practices.
 
-### 2.14 - software bill of materials (SBOM)
+### 2.15 - software bill of materials (SBOM)
 
 a “Software Bill of Materials” (SBOM) is a inventory for software, a list of ingredients that make up software components. An example is the (Software Package Data Exchange) SPDX specification created by the Linux Foundation's SPDX Project to exchange bill of materials for a given software package (see spdx.org). Regardless of the SBOM specification used, it should follow a complete profile for the intended use case.
 
-### 2.15 - Supplied Software
+### 2.16 - Supplied Software
 
 Software that an organization distributes or makes available to third parties (e.g., other organizations or individuals).
 
-### 2.16 - Verification Materials
+### 2.17 - Verification Materials
 
 Materials that demonstrate that a given requirement of the specification is satisfied.
 
