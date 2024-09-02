@@ -289,7 +289,7 @@ To ensure a process exists for creating and managing a Software Bill of Material
 
 ### 3.3.2 - Security Assurance
 
-A process shall exist to detect, identify, and document the existence of Known Vulnerabilities in each Open Source Software component on the Software Bill of Materials (SBOM) for the Supplied Software.
+A process shall exist to detect, identify, and document the existence of Known Vulnerabilities in each Open Source Software component in the Software Bill of Materials (SBOM) for the Supplied Software.
 
 For each identified Known Vulnerability assign a risk/impact score using a valid process such as NIST SP 800-30;
 For each detection and assigned score determine and document necessary remediation or mitigation steps suitable for the use-case of the software;
