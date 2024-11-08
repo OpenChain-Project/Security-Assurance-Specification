@@ -66,6 +66,10 @@ https://www.ietf.org/rfc/rfc2119.txt
 We reviewed the ISO definitions to confirm no conflict:
 https://www.iso.org/foreword-supplementary-information.html
 
+## 2: Terms, Definitions and Examples
+
+For the purposes of this document, the following terms and definitions apply.
+
 ### 2.1 - Component Records
 
 A Component Record should consist of a Supplier Name, Component Name, Version of the Component, Other Unique Identifiers, Dependency Relationship, Author of SBOM Data and Timestamp (as per [NTIA minimum elements for SBoM](https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf))
